@@ -1,0 +1,6 @@
+{
+  "name": "Vibes Lounge & Grill",
+  "description": "Vibes Lounge & Grill - Liberia's premier Afro-urban luxury dining and lounge experience. Located in Monrovia, we blend authentic Liberian flavors, live music, and premium cocktails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
